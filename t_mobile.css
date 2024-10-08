@@ -103,7 +103,7 @@ button:hover {
   padding-left: 1rem;
 }
 
-.t_mobile-online-online-action-heading{
+.t_mobile-online-online-action-heading {
   color: aliceblue;
   font-size: small;
 }
@@ -129,9 +129,9 @@ button:hover {
   width: 5rem;
 }
 
-.t_mobile-card2-head{
+.t_mobile-card2-head {
   padding-top: 1rem;
-    text-align: center;
+  text-align: center;
 }
 
 .t_mobile-left_header2-button {
@@ -267,7 +267,7 @@ button:hover {
 .t_mobile-card2-paragraph {
   font-size: small;
   padding-top: 1rem;
-    text-align: center;
+  text-align: center;
 }
 .t_mobile-card2-terms {
   color: white;
@@ -418,51 +418,52 @@ a {
   font-weight: 900;
 }
 
-.t_mobile-best-plan-side,p{
+.t_mobile-best-plan-side,
+p {
   color: black;
-  font-size:x-large;
+  font-size: x-large;
   padding-top: 1.5rem;
 }
 
-.t_mobile-best-plan-side_card{
+.t_mobile-best-plan-side_card {
   width: 77.3rem;
-  background-color:rgb(206, 68, 130) ;
-  height: 540px ;
+  background-color: rgb(206, 68, 130);
+  height: 540px;
   display: flex;
   margin-left: 1.3rem;
 }
-.t_mobile-best-plan-side_card-image{
+.t_mobile-best-plan-side_card-image {
   margin: 5rem 0 0 9rem;
   width: 400px;
   height: 400px;
 }
 
-.t_mobile-best-plan-side_card-image1{
-  width:12rem;
-  height:2.5rem ;
-  padding:5rem 0 0 4rem;
+.t_mobile-best-plan-side_card-image1 {
+  width: 12rem;
+  height: 2.5rem;
+  padding: 5rem 0 0 4rem;
 }
-.t_mobile-best-plan-side_card1{
+.t_mobile-best-plan-side_card1 {
   display: block;
 }
-.t_mobile-best-plan-side_card-heading{
+.t_mobile-best-plan-side_card-heading {
   font-size: 4rem;
-  padding:0 0 0 4rem ;
+  padding: 0 0 0 4rem;
   color: aliceblue;
 }
-.t_mobile-best-plan-side_card-paragraph{
+.t_mobile-best-plan-side_card-paragraph {
   font-size: 0.9rem;
-  padding:0.3rem 0 1rem 4rem ; 
+  padding: 0.3rem 0 1rem 4rem;
   color: aliceblue;
 }
-.t_mobile-best-plan-side_card-paragraph1{
- font-size: 0.8rem;
- text-align: start;
- padding:0.5rem 0 0 4rem ; 
- color: aliceblue;
+.t_mobile-best-plan-side_card-paragraph1 {
+  font-size: 0.8rem;
+  text-align: start;
+  padding: 0.5rem 0 0 4rem;
+  color: aliceblue;
 }
-.t_mobile-best-plan-side_card-button{
-margin: 1rem 0 0 4rem;
+.t_mobile-best-plan-side_card-button {
+  margin: 1rem 0 0 4rem;
   height: 3.3rem;
   width: 14rem;
   border: 2px solid white;
@@ -470,40 +471,38 @@ margin: 1rem 0 0 4rem;
   background-color: transparent;
   color: rgb(255, 255, 255);
 }
-.t_mobile-best-plan-side_card-button:hover{
-background-color: aliceblue;
-color: black;
+.t_mobile-best-plan-side_card-button:hover {
+  background-color: aliceblue;
+  color: black;
 }
-.t_mobile-best-plan-side_card-paragraph2{
+.t_mobile-best-plan-side_card-paragraph2 {
   margin: 2rem 0 1rem 0;
 }
-.t_mobile-best-plan-side_card-terms_link{
+.t_mobile-best-plan-side_card-terms_link {
   margin: 1rem 0 0 4rem;
   color: rgb(255, 255, 255);
 }
-.t_mobile-best-plan-side_card-widt-us{
+.t_mobile-best-plan-side_card-widt-us {
   width: 77.3rem;
   height: 15rem;
   margin-left: 1.3rem;
- 
 }
-.t_mobile-best-plan-side_card-widt-us-heading{
-padding:4rem 0 0  27rem;
-font-size:3rem;
+.t_mobile-best-plan-side_card-widt-us-heading {
+  padding: 4rem 0 0 27rem;
+  font-size: 3rem;
 }
 
-.t_mobile-best-plan-side_card-widt-us-button{
+.t_mobile-best-plan-side_card-widt-us-button {
   width: 6rem;
   height: 3rem;
- background-color: rgb(206, 68, 130) ;
- color: aliceblue;
- border-radius: 5px;
- border: 0px;
- margin:2rem 0 0  29rem;
-
+  background-color: rgb(206, 68, 130);
+  color: aliceblue;
+  border-radius: 5px;
+  border: 0px;
+  margin: 2rem 0 0 29rem;
 }
 
-.t_mobile-best-plan-side_card-widt-us-button1{
+.t_mobile-best-plan-side_card-widt-us-button1 {
   width: 6rem;
   height: 3rem;
   border-radius: 5px;
@@ -511,61 +510,60 @@ font-size:3rem;
   border: 3px solid black;
   margin-left: 4rem;
 }
-.t_mobile-best-plan-side_card-widt-us-button1:hover{
+.t_mobile-best-plan-side_card-widt-us-button1:hover {
   background-color: black;
   color: aliceblue;
 }
 
-.t_mobile-best-plan-side_card_brand-love{
+.t_mobile-best-plan-side_card_brand-love {
   background-color: rgb(28, 28, 28);
   width: 77.3rem;
   margin-left: 1.3rem;
   height: 55rem;
-
 }
 
-.t_mobile-best-plan-side_card_brand-love-heading{
-  font-weight:bolder;
+.t_mobile-best-plan-side_card_brand-love-heading {
+  font-weight: bolder;
   padding-left: 1rem;
   color: aliceblue;
 }
 
-.t_mobile-best-plan-side_card_brand-love-maincard{
+.t_mobile-best-plan-side_card_brand-love-maincard {
   width: 77.3rem;
   height: 47rem;
-background-color:linear-gradient(rgb(35, 34, 34), rgb(39, 39, 39));
+  background-color: linear-gradient(rgb(35, 34, 34), rgb(39, 39, 39));
   display: flex;
 }
-.t_mobile-best-plan-side_card_brand-love-card{
-  width:26rem ;
+.t_mobile-best-plan-side_card_brand-love-card {
+  width: 26rem;
   height: 43rem;
   background-color: aliceblue;
   margin: 1rem 1rem 1rem 1rem;
   border-radius: 1rem;
 }
-.t_mobile-best-plan-great-benefits{
+.t_mobile-best-plan-great-benefits {
   font-size: small;
   padding-left: 7.6rem;
 }
-.t_mobile-best-plan-great-benefits-paragraph{
-    font-size: x-large;
-    padding: 1rem 0 0 4rem;
-    font-weight:bolder;
+.t_mobile-best-plan-great-benefits-paragraph {
+  font-size: x-large;
+  padding: 1rem 0 0 4rem;
+  font-weight: bolder;
 }
 
-.t_mobile-best-plan-great-benefits-paragraph1{
-  font-size:x-large;
-  padding:0 0 0 7rem;
-  font-weight:bolder;
+.t_mobile-best-plan-great-benefits-paragraph1 {
+  font-size: x-large;
+  padding: 0 0 0 7rem;
+  font-weight: bolder;
 }
-.t_mobile-best-plan-great-benefits-imag{
+.t_mobile-best-plan-great-benefits-imag {
   width: 16rem;
-  margin:2rem 0 0  4rem;
+  margin: 2rem 0 0 4rem;
 }
-.t_mobile-best-plan-great-benefits-button{
+.t_mobile-best-plan-great-benefits-button {
   width: 7rem;
   height: 3rem;
-  background-color:rgb(206, 68, 130) ;
+  background-color: rgb(206, 68, 130);
   border: 0px;
   border-radius: 6px;
   color: aliceblue;
@@ -573,86 +571,156 @@ background-color:linear-gradient(rgb(35, 34, 34), rgb(39, 39, 39));
   font-weight: 900;
 }
 
-.t_mobile-best-plan-great-benefits-card-paragraph{
-text-align: center;
-font-weight: 900;
-font-size: small;
-margin: 2rem 0 0 0;
-height: 11rem;
+.t_mobile-best-plan-great-benefits-card-paragraph {
+  text-align: center;
+  font-weight: 900;
+  font-size: small;
+  margin: 2rem 0 0 0;
+  height: 11rem;
 }
 
-.t_mobile-best-plan-great-paragraph{
+.t_mobile-best-plan-great-paragraph {
   text-align: center;
   font-weight: 900;
   font-size: x-large;
   margin: 2rem 0 0 0;
-
 }
-.t_mobile-best-plan-great-benefits1{
+.t_mobile-best-plan-great-benefits1 {
   font-size: small;
-  padding-left: 6rem;}
+  padding-left: 6rem;
+}
 
-  .t_mobile-best-plan-great-benefits-button1{
-    width: 11rem;
-    height: 3rem;
-    background-color:rgb(206, 68, 130) ;
-    border: 0px;
-    border-radius: 6px;
-    color: aliceblue;
-    margin: 1.5rem 0 0 7rem;
-    font-weight: 900;
-  }
-  .t_mobile-best-plan-great-benefits-paragraph3{
-    text-align: center;
+.t_mobile-best-plan-great-benefits-button1 {
+  width: 11rem;
+  height: 3rem;
+  background-color: rgb(206, 68, 130);
+  border: 0px;
+  border-radius: 6px;
+  color: aliceblue;
+  margin: 1.5rem 0 0 7rem;
+  font-weight: 900;
+}
+.t_mobile-best-plan-great-benefits-paragraph3 {
+  text-align: center;
   font-weight: 900;
   font-size: x-large;
-  }
-  .t_mobile-best-plan-great-benefits-card-paragraph5{
-    text-align: center;
-    font-weight: 900;
-    font-size: small;
-    margin: 2rem;
-    height: 1rem; 
-  }
+}
+.t_mobile-best-plan-great-benefits-card-paragraph5 {
+  text-align: center;
+  font-weight: 900;
+  font-size: small;
+  margin: 2rem;
+  height: 1rem;
+}
 
-  .t_mobile-best-plan-side_card_brand-love-link{
-    margin: 10rem;
-    font-weight: 600;
-    color: rgb(0, 0, 0);
-  }
-  .t_mobile-best-plan-side_card_brand-love-link:hover{
-    text-underline-offset: 5px;
-  }
-  .t_mobile-best-plan-side_card_brand-love-link1{
-    color:rgb(206, 68, 130) ;
-    text-decoration: none;
-    font-size: medium;
-    font-weight: 900;
-  }
-  .t_mobile-best-plan-side_card_brand-love-link1,svg{
-    color:rgb(206, 68, 130) ;
-  }
-  .t_mobile-footer{
-    width:77.3rem;
-    height: 1256px;
-    background-color: rgb(79, 63, 94);
-   margin: 0 0 0 1.3rem;
-  }
-  .t_mobile-footer-heading{
-    text-align: center;
-    padding: 2rem 0 0 0;
-    color: black;
-    font-weight: 900;
-  }
-  .t_mobile-footer-main_content{
-    width:76rem;
-    height: 1000px;
-    background-color: rgb(65, 65, 67);
-    margin: 0.5rem;
-  }
+.t_mobile-best-plan-side_card_brand-love-link {
+  margin: 10rem;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+.t_mobile-best-plan-side_card_brand-love-link:hover {
+  text-underline-offset: 5px;
+}
+.t_mobile-best-plan-side_card_brand-love-link1 {
+  color: rgb(206, 68, 130);
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 900;
+}
+.t_mobile-best-plan-side_card_brand-love-link1,
+svg {
+  color: rgb(206, 68, 130);
+}
+.t_mobile-footer {
+  width: 77.3rem;
+  height: 20rem;
+  background-color: rgb(255, 255, 255);
+  margin: 0 0 0 1.3rem;
+}
+.t_mobile-footer-heading {
+  text-align: center;
+  padding: 2rem 0 0 0;
+  color: black;
+  font-weight: 900;
+}
+.t_mobile-footer-main_content{
+  width: 76rem;
+  height: 20rem;
+  background-color: rgb(255, 255, 255);
+  margin: 0.5rem;
+}
 
-  .t_mobile-footer-main_content-option{
-    width: 9rem;
-    height: 16rem;
-    padding-left: 3rem;
-  }
+.t_mobile-footer-main_content-option {
+  width: 4rem;
+  height: 4rem;
+  padding: 8rem 0 0 4.2rem;
+}
+.t_mobile-footer1 {
+  display: flex;
+}
+.t_mobile-footer1-option1 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 3rem 0 0 2rem;
+}
+.t_mobile-footer1-option2 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 2rem 0 0 8rem;
+}
+
+.t_mobile-footer1-option3 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 2rem 0 0 8rem;
+}
+
+.t_mobile-footer1-option4 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 2rem 0 0 8rem;
+}
+
+.t_mobile-footer1-option5 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 2rem 0 0 8rem;
+}
+.t_mobile-fooder_deal{
+  margin: 5rem 0 0 0;
+}
+
+.t_mobile-footer1-option6 {
+  text-decoration: none;
+  color: rgb(206, 68, 130);
+  font-weight: 900;
+  font-size: large;
+  padding: 2rem 0 0 7rem;
+}
+.T-mobile-footer-deal{
+  display: flex;
+  background-color: black;
+  height: 55rem;
+}
+.T-mobile-footer-data{
+  background-color: aquamarine;
+  padding: 2rem;
+  height: 50rem;
+  width: 55rem;
+}
+.T-mobile-footer-icon{
+  display: flex;
+}
+.T-mobile-footer-icon,i{
+  margin: 0 0 0 0;
+}
